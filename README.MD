@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @pogZy1
+- 👋 Salut je suis @pogZy1
 - 👀 Je suis intéresser par le LUA
-- 🌱 I’m currently learning LUA
-- 💞️ I’m looking to collaborate on dm on discord pogZy#0001
-- 📫 How to reach me on discord pogZy#0001
+- 🌱 J'apprends actuellement le LUA
+- 📫 Comment me contacter pogZy#0001 sur Discord
 
 <!---
 pogZy1/pogZy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
